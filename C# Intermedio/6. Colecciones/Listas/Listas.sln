@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{C4C2C8F4-4305-4788-B6CB-CD2705E9823D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C2C8F4-4305-4788-B6CB-CD2705E9823D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C2C8F4-4305-4788-B6CB-CD2705E9823D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C2C8F4-4305-4788-B6CB-CD2705E9823D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C2C8F4-4305-4788-B6CB-CD2705E9823D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

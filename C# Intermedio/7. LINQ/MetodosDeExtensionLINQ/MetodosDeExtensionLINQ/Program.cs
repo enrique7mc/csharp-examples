@@ -28,7 +28,7 @@ namespace MetodosDeExtensionLINQ
             var sorted = numeros.OrderBy(n => n);
 
             // muestra los resultados ordenados
-            Console.Write("\Lista original, ordenada:");
+            Console.Write("\nLista original, ordenada:");
             ImprimeEnumerable(sorted);
 
             // ordena los resultados filtrados en orden descendente            

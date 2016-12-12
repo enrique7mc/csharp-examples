@@ -1,7 +1,7 @@
 Ejercicios de Programación en C#
 ===============
 
-Estos ejercicios están organizados por nivel: básico e intermedio, y por tema. Cada uno de los ejemplos existe en un proyecto individual. 
+Estos ejercicios están organizados por nivel: básico e intermedio, y por tema. Cada uno de los ejemplos existe en un proyecto individual de Visual Studio. 
 
 En cada nivel la carpeta "Inicial" contiene la versión inicial de cada proyecto.
 
